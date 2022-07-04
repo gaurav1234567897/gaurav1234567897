@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaurav1234567897
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning ML/DL
+- 🌱 I’m currently gaining expertise in ML/DL
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me search me as Gaurav Rai on facebook.
 
